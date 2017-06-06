@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/pcolas.h
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+string.h
+-
+
+/home/carlos/FinalProyect/src/main.cpp
+pcolas.h
+/home/carlos/FinalProyect/src/pcolas.h
+
+/home/carlos/FinalProyect/src/pcolas.cpp
+pcolas.h
+/home/carlos/FinalProyect/src/pcolas.h
+

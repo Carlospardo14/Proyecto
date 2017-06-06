@@ -1,0 +1,3 @@
+/home/carlos/FinalProyect/build/CMakeFiles/edit_cache.dir
+/home/carlos/FinalProyect/build/CMakeFiles/rebuild_cache.dir
+/home/carlos/FinalProyect/build/CMakeFiles/proyecto.dir

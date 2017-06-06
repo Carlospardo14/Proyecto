@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proyecto.dir/src/main.cpp.o CMakeFiles/proyecto.dir/src/pcolas.cpp.o  -o proyecto -rdynamic 
